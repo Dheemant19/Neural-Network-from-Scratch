@@ -1,3 +1,0 @@
-cupy-cuda12x
-matplotlib
-pandas
