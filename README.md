@@ -17,7 +17,7 @@ The network achieved a 0.8168 F1-score (macro average) and an accuracy of 83.3% 
 
 ## Installation
 1. Clone this repository by:
-   `git clone https://github.com/Dheemant19/Neural-Network-from-Scratch/tree/main`
+   `git clone https://github.com/Dheemant19/Neural-Network-from-Scratch.git`
    then navigate `cd` to the folder where the repository is cloned.
 2. Install libraries by:
    `pip install -r requirements.txt`
